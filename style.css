@@ -1,0 +1,17 @@
+/* Theme 1 */
+.theme1 {
+    background-color: lightblue;
+    color: darkblue;
+}
+
+/* Theme 2 */
+.theme2 {
+    background-color: lightgreen;
+    color: green;
+}
+
+/* Theme 3 */
+.theme3 {
+    background-color: lightcoral;
+    color: maroon;
+}
